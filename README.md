@@ -1,2 +1,2 @@
-# covidcms
-Analyzing COVID data in CMS to visualize trends.
+# GetHelp
+Instant help for medical emergencies at your fingertips.
