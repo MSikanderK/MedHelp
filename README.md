@@ -1,3 +1,2 @@
-# covidcms
-Analyzing COVID data in CMS to visualize trends.
-This project is related to a research paper about CMS.
+# GetHelp
+Instant help for medical emergencies at your fingertips.
