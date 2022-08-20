@@ -1,6 +1,6 @@
 from django.contrib.gis.db import models
 
-class Shop(models.Model):
+class Provider(models.Model):
     name = models.CharField(max_length=100)
     contact = models.CharField(max_length=50)
     location = models.PointField()
