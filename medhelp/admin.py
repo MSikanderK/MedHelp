@@ -4,4 +4,4 @@ from .models import Provider
 
 @admin.register(Provider)
 class ProviderAdmin(OSMGeoAdmin):
-    list_display = ('name', 'location')
+    list_display = ('name', 'location', 'contact', 'provider_type')

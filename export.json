@@ -1,0 +1,4385 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.58.5 b0c4acbb",
+  "osm3s": {
+    "timestamp_osm_base": "2022-08-23T14:38:34Z",
+    "timestamp_areas_base": "2022-07-20T10:48:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 880522069,
+      "lat": 36.3063914,
+      "lon": 74.6124813,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Aga Khan Health Center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1534280398,
+      "lat": 31.5220003,
+      "lon": 74.2904225,
+      "tags": {
+        "amenity": "doctors",
+        "description": "Medical care doctor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2013315334,
+      "lat": 33.6500798,
+      "lon": 73.0922567,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Alrehman Family Clinic -- Lady Doctor Samina Azhar Awan",
+        "source": "Physical suvey -- SaafPindi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2016144810,
+      "lat": 33.644787,
+      "lon": 73.0856435,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Doctor Zarina Clinic (Dr. Zarina M.B.B.S & Dr. Saleha Masood Child Sp., Altrasound Sp.)",
+        "source": "Physical suvey -- SaafPindi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2016144811,
+      "lat": 33.6450203,
+      "lon": 73.0853096,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dr. Sarfraz Khan",
+        "source": "Physical suvey -- SaafPindi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2623428760,
+      "lat": 33.3662641,
+      "lon": 73.2391354,
+      "tags": {
+        "addr:city": "Mandra",
+        "amenity": "doctors",
+        "name": "Rafaqat Clinic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2640851716,
+      "lat": 33.6055828,
+      "lon": 73.0583723,
+      "tags": {
+        "addr:city": "Rawalpindi",
+        "amenity": "doctors",
+        "name": "Dr. Shafiq"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642297833,
+      "lat": 33.3653063,
+      "lon": 73.2398325,
+      "tags": {
+        "addr:city": "Mandra",
+        "amenity": "doctors",
+        "name": "KAMRAN CLINIC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3151361192,
+      "lat": 32.572519,
+      "lon": 74.0819952,
+      "tags": {
+        "addr:city": "Gujrat",
+        "addr:street": "Shadoula Road",
+        "amenity": "doctors",
+        "name": "Zain Clinic",
+        "phone": "053-3513838"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3151414107,
+      "lat": 32.5766779,
+      "lon": 74.084216,
+      "tags": {
+        "addr:city": "Gujrat",
+        "addr:street": "Jalalpur Link Road",
+        "amenity": "doctors",
+        "name": "Dr Waseem Butt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3151672692,
+      "lat": 32.5817949,
+      "lon": 74.0804663,
+      "tags": {
+        "addr:city": "Gujrat",
+        "addr:street": "Chenab Plaza Kachehri Road",
+        "amenity": "doctors",
+        "name": "Dr Shabbir Mirza, Chest Specialist",
+        "phone": "0300 6232011"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3993298626,
+      "lat": 36.5018528,
+      "lon": 72.5274733,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Aga Khan Family Health Center Khot"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3994783457,
+      "lat": 36.1619028,
+      "lon": 73.2744627,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dispensary"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3994783458,
+      "lat": 36.1619239,
+      "lon": 73.2745675,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dispensary"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3995199741,
+      "lat": 36.0829511,
+      "lon": 73.3492919,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Govt. Dispensary"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3996661859,
+      "lat": 36.2447346,
+      "lon": 73.3776969,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Health Centre Jandrote"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4003853044,
+      "lat": 35.9153611,
+      "lon": 74.3547432,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4009344980,
+      "lat": 35.839058,
+      "lon": 74.7078359,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012261358,
+      "lat": 36.2777886,
+      "lon": 73.405076,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012410028,
+      "lat": 36.3058404,
+      "lon": 73.3831427,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Family Health Centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012410029,
+      "lat": 36.305873,
+      "lon": 73.3833398,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Family Health Centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4012569101,
+      "lat": 36.3267798,
+      "lon": 73.3633195,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4013954230,
+      "lat": 36.3708346,
+      "lon": 73.3326001,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Health Centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4014587439,
+      "lat": 36.3963886,
+      "lon": 73.292795,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4016198501,
+      "lat": 36.4207494,
+      "lon": 73.3742879,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4016483200,
+      "lat": 36.49301,
+      "lon": 73.3950772,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4019335590,
+      "lat": 36.4795949,
+      "lon": 73.2840089,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4020903085,
+      "lat": 36.5131225,
+      "lon": 73.4138002,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4020903101,
+      "lat": 36.5132072,
+      "lon": 73.4128305,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4020927524,
+      "lat": 36.5422432,
+      "lon": 73.4296516,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4021827271,
+      "lat": 36.5630519,
+      "lon": 73.4385877,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4023016155,
+      "lat": 36.6443416,
+      "lon": 73.4482426,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4025487978,
+      "lat": 36.2619838,
+      "lon": 74.533881,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4025488141,
+      "lat": 36.2621071,
+      "lon": 74.5339045,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4025490065,
+      "lat": 36.2644808,
+      "lon": 74.5403878,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4025868238,
+      "lat": 36.2511495,
+      "lon": 74.5313716,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4027215844,
+      "lat": 36.3048991,
+      "lon": 74.6522629,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4027216320,
+      "lat": 36.3061978,
+      "lon": 74.6549862,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4027655078,
+      "lat": 36.3272616,
+      "lon": 74.6654685,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4027917665,
+      "lat": 36.3187804,
+      "lon": 74.6820688,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4027980705,
+      "lat": 36.3058467,
+      "lon": 74.7342295,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4029402246,
+      "lat": 36.2757662,
+      "lon": 74.7113448,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4029635437,
+      "lat": 36.2566074,
+      "lon": 74.7470148,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4029782121,
+      "lat": 36.2236463,
+      "lon": 74.7602248,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4032297530,
+      "lat": 36.1712047,
+      "lon": 74.9916481,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4032597994,
+      "lat": 36.3881849,
+      "lon": 74.8616447,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4032598034,
+      "lat": 36.3882551,
+      "lon": 74.8614571,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4032598087,
+      "lat": 36.3883707,
+      "lon": 74.8613226,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4032598254,
+      "lat": 36.3884995,
+      "lon": 74.8612581,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4032693343,
+      "lat": 36.4058507,
+      "lon": 74.8622573,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4033057922,
+      "lat": 36.438919,
+      "lon": 75.3194292,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4033058081,
+      "lat": 36.4396192,
+      "lon": 75.3205769,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4034150922,
+      "lat": 36.6153618,
+      "lon": 74.8612081,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4034151385,
+      "lat": 36.6179238,
+      "lon": 74.8643437,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4034508870,
+      "lat": 36.6774327,
+      "lon": 74.8339176,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Health Centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4034508871,
+      "lat": 36.6774576,
+      "lon": 74.8341023,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Health Centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4035914466,
+      "lat": 36.7504732,
+      "lon": 74.7070535,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dispencary"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4035964622,
+      "lat": 36.7890998,
+      "lon": 74.7631746,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dispencary"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4035964623,
+      "lat": 36.7891478,
+      "lon": 74.7630539,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dispencary"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4122546593,
+      "lat": 32.9413573,
+      "lon": 72.2695373,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:street": "Lalpura",
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4170132589,
+      "lat": 31.5649365,
+      "lon": 74.3808544,
+      "tags": {
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Doctor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4232754762,
+      "lat": 31.2585121,
+      "lon": 72.7660229,
+      "tags": {
+        "amenity": "doctors",
+        "internet_access": "wlan",
+        "name": "Dr. Rasheed House",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4233658689,
+      "lat": 31.5469203,
+      "lon": 74.3048326,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dr Imran Wahees."
+      }
+    },
+    {
+      "type": "node",
+      "id": 4259606089,
+      "lat": 32.9280672,
+      "lon": 72.2831527,
+      "tags": {
+        "addr:street": "Saghar Ada",
+        "amenity": "doctors",
+        "name": "Malik Jawad"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4292500999,
+      "lat": 34.0348637,
+      "lon": 73.7674884,
+      "tags": {
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "cardiology",
+        "name": "Masjid Hakeem Cardiologist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4327443389,
+      "lat": 30.9644211,
+      "lon": 71.2121158,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Ali Surgical Dr Mian Ghulam Abbas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4370962523,
+      "lat": 32.3990368,
+      "lon": 71.3511989,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Despenser",
+        "name:en": "Despenser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4387287290,
+      "lat": 31.5427407,
+      "lon": 74.3270585,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Chohan Clinic",
+        "name:en": "Chohan Clinic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4436240789,
+      "lat": 32.717639,
+      "lon": 72.954831,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dr Malik Khalid Iqbal",
+        "name:en": "Dr Malik Khalid Iqbal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4437516391,
+      "lat": 29.8281877,
+      "lon": 71.3494671,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Hakeem Ubaid",
+        "name:en": "Hakeem Ubaid",
+        "phone": "00923017548479"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4442586792,
+      "lat": 30.2799136,
+      "lon": 73.0677055,
+      "tags": {
+        "addr:street": "Qabola Road",
+        "amenity": "doctors",
+        "name": "City Hospital",
+        "name:en": "City Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4457324389,
+      "lat": 33.9270834,
+      "lon": 72.3707321,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Shadi khan",
+        "name:en": "Shadi khan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4459277992,
+      "lat": 32.4302657,
+      "lon": 73.5743506,
+      "tags": {
+        "amenity": "doctors",
+        "name:en": "Rehman Medical Stor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4459480790,
+      "lat": 32.4298408,
+      "lon": 73.5742661,
+      "tags": {
+        "amenity": "doctors",
+        "name:en": "Mukhtar Medical Stor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4464815191,
+      "lat": 34.0087289,
+      "lon": 71.5791429,
+      "tags": {
+        "addr:street": "Bazar Kalan",
+        "amenity": "doctors",
+        "name": "Dr. Fazle Amin Children Specialist",
+        "name:en": "Dr. Fazle Amin Children Specialist",
+        "opening_hours": "24/7",
+        "phone": "0912217208"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4475431589,
+      "lat": 33.8805241,
+      "lon": 72.4017084,
+      "tags": {
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Hameed hospital",
+        "name:en": "Hameed hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4484291394,
+      "lat": 34.0103174,
+      "lon": 71.5644589,
+      "tags": {
+        "addr:postcode": "25000",
+        "addr:street": "Khyber Bazaar RD /  جیبر بازار روڈ",
+        "amenity": "doctors",
+        "name": "Pak Medical Centre",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4492365191,
+      "lat": 30.1912222,
+      "lon": 66.974314,
+      "tags": {
+        "amenity": "doctors",
+        "name": "BMC Medical College",
+        "name:en": "BMC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4506410697,
+      "lat": 34.0075403,
+      "lon": 71.5852653,
+      "tags": {
+        "addr:street": "Kotla Sultan RD / کوٹلہ سلطان",
+        "amenity": "doctors",
+        "name": "Banu Bagh(Mashumanu jabai)",
+        "opening_hours": "Mo-Su 08:00-17:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4535291289,
+      "lat": 31.5676771,
+      "lon": 73.1832986,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Abid Medical Store",
+        "name:en": "Abid Medical Store p"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4541532491,
+      "lat": 33.9650398,
+      "lon": 71.4154089,
+      "tags": {
+        "addr:street": "street 25, sector E 5, phase 7",
+        "amenity": "doctors",
+        "name": "per damunu wala"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4546012289,
+      "lat": 34.2161181,
+      "lon": 71.5502073,
+      "tags": {
+        "addr:postcode": "24630",
+        "addr:street": "Shabqadar Road",
+        "amenity": "doctors",
+        "name": "Dr Nabila",
+        "opening_hours": "Mo-Sa 09:00-15:00",
+        "phone": "0343 1194651"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4547647597,
+      "lat": 24.8241878,
+      "lon": 67.0331436,
+      "tags": {
+        "addr:city": "Karachi",
+        "addr:country": "PK",
+        "addr:place": "Clifton Block 5",
+        "addr:suburb": "Clifton",
+        "amenity": "doctors",
+        "name": "Dr. Asad",
+        "name:en": "Dr. Asad"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4662982011,
+      "lat": 34.1907369,
+      "lon": 72.4643661,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Hazar hait"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4723979440,
+      "lat": 24.8179543,
+      "lon": 67.0232691,
+      "tags": {
+        "addr:city": "Karachi",
+        "addr:country": "PK",
+        "addr:housenumber": "ST-32A",
+        "addr:place": "Clifton Block 5",
+        "addr:street": "Rojhan Street",
+        "addr:suburb": "Clifton",
+        "amenity": "doctors",
+        "name": "BMI Physio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4785084521,
+      "lat": 33.5846404,
+      "lon": 73.0918658,
+      "tags": {
+        "addr:housenumber": "302",
+        "addr:postcode": "46000",
+        "addr:street": "Street 14",
+        "amenity": "doctors",
+        "email": "jatanoli@gmail.com",
+        "name": "J. A. TANOLI Residence",
+        "name:en": "J. A. TANOLI Residence",
+        "phone": "+923075000728"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4792035066,
+      "lat": 24.8660827,
+      "lon": 67.0253417,
+      "tags": {
+        "addr:city": "Karachi",
+        "addr:street": "M.A. Jinnah Road",
+        "amenity": "doctors",
+        "name": "OSP Karachi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4905664932,
+      "lat": 32.178901,
+      "lon": 74.1948193,
+      "tags": {
+        "addr:city": "Gujranwala",
+        "addr:street": "DC Road",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Dr. Naseem Ahmad Saeed"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4909438521,
+      "lat": 31.4542043,
+      "lon": 74.2138256,
+      "tags": {
+        "addr:street": "Main Boulevard",
+        "amenity": "doctors",
+        "name": "Homeopathic Clinic",
+        "name:en": "Homeopathic Clinic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4916682223,
+      "lat": 30.2963852,
+      "lon": 71.9319966,
+      "tags": {
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Dr Ejaz Ahmad",
+        "name:en": "Dr Ejaz Ahmad"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4922303321,
+      "lat": 31.5282929,
+      "lon": 74.2916679,
+      "tags": {
+        "amenity": "doctors",
+        "name": "dr. waseem"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4969935934,
+      "lat": 34.7633657,
+      "lon": 72.3670159,
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5078247525,
+      "lat": 32.591011,
+      "lon": 74.0639268,
+      "tags": {
+        "addr:housenumber": "C-35",
+        "addr:street": "Shadman Road",
+        "amenity": "doctors",
+        "email": "drimranumar@gmail.com",
+        "internet_access": "wlan",
+        "opening_hours": "24/7",
+        "phone": "03167020176"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5081954721,
+      "lat": 36.4366262,
+      "lon": 75.3166652,
+      "tags": {
+        "amenity": "doctors",
+        "email": "info@shimshal-gesundheit.de",
+        "name": "Shimshal Healthcare Centre",
+        "name:de": "Shimshal Healthcare Centre",
+        "opening_hours": "Mo-Sa 09:00-15:00",
+        "website": "http://www.shimshal-gesundheit.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5128786721,
+      "lat": 31.4979244,
+      "lon": 74.3235052,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Australian Fertility Centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5272501221,
+      "lat": 32.5204603,
+      "lon": 74.5714545,
+      "tags": {
+        "addr:housenumber": "55/23",
+        "addr:postcode": "51310",
+        "addr:street": "Ghazi Road Cantt",
+        "amenity": "doctors",
+        "name": "Sialko Pak Ghazi Road",
+        "opening_hours": "24/7",
+        "phone": "0092523563732"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5284838223,
+      "lat": 33.6950023,
+      "lon": 73.0515555,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Capital Diagnostic Center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5338152497,
+      "lat": 25.5296186,
+      "lon": 68.9946213,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dr. Iqbal Pathan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5414198226,
+      "lat": 30.2949447,
+      "lon": 71.9195306,
+      "tags": {
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Humaira Arshad"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5538342521,
+      "lat": 32.592861,
+      "lon": 74.0754387,
+      "tags": {
+        "addr:housenumber": "981 K",
+        "addr:postcode": "50700",
+        "addr:street": "Jail Road",
+        "amenity": "doctors",
+        "name": "Dr.Bilal Dar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5538342621,
+      "lat": 32.5928594,
+      "lon": 74.0754502,
+      "tags": {
+        "addr:postcode": "70500",
+        "addr:street": "Jail Road",
+        "amenity": "doctors",
+        "email": "bilalahmeddar@hotmail.com",
+        "internet_access": "wlan",
+        "name": "Dr. Bilal Dar",
+        "opening_hours": "Sa 09:00-18:00; Mo-Fr 09:00-18:00",
+        "phone": "03215386474"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5761347921,
+      "lat": 30.976961,
+      "lon": 72.4801757,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Saleemi Sarjecal Clinic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5860847203,
+      "lat": 31.4773646,
+      "lon": 73.1371603,
+      "tags": {
+        "addr:postcode": "38000",
+        "addr:street": "Fahad Rasheed Road",
+        "amenity": "doctors",
+        "name": "Dr. Fahad House",
+        "opening_hours": "Mo-Sa 09:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5979229386,
+      "lat": 33.7410171,
+      "lon": 73.1776675,
+      "tags": {
+        "addr:street": "Simly Dam Road",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Doctor Khaliq Raheem Medical Centre",
+        "phone": "03005225383"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6063178886,
+      "lat": 34.8073635,
+      "lon": 72.4388282,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Homeopathic dr Azim Sha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6190484086,
+      "lat": 31.6196714,
+      "lon": 74.2783261,
+      "tags": {
+        "addr:street": "Pindi Das Road",
+        "amenity": "doctors",
+        "name": "Raheem medical hal",
+        "opening_hours": "Mo-Su 05:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6208726886,
+      "lat": 33.6754658,
+      "lon": 73.0154374,
+      "tags": {
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Dr. Seema Ansari"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6268112585,
+      "lat": 32.4994015,
+      "lon": 72.9851551,
+      "tags": {
+        "addr:street": "Grave Yard Road",
+        "amenity": "doctors",
+        "name": "Dr Hanif Malik"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6282770086,
+      "lat": 31.6196706,
+      "lon": 74.2785056,
+      "tags": {
+        "addr:postcode": "54000",
+        "addr:street": "Pindi Das Road",
+        "amenity": "doctors",
+        "internet_access": "wlan",
+        "name": "Raheem medical store",
+        "opening_hours": "24/7",
+        "phone": "03004232103"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6360170323,
+      "lat": 34.0033986,
+      "lon": 71.5601487,
+      "tags": {
+        "addr:housenumber": "03",
+        "addr:street": "Samad Building Dabgari",
+        "amenity": "doctors",
+        "name": "Dr. Yousan Paracha",
+        "opening_hours": "Mo-Sa 04:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6360193100,
+      "lat": 34.0042971,
+      "lon": 71.5595024,
+      "tags": {
+        "addr:housenumber": "03",
+        "addr:street": "South City Road",
+        "amenity": "doctors",
+        "name": "Dr Younas Paracha",
+        "opening_hours": "Mo-Sa 04:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6400303089,
+      "lat": 33.6100431,
+      "lon": 71.3668042,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Mian Garrhi Kohat ( ، مسجد، میاں گڑھی  )",
+        "name:en": "Mian Garrhi Kohat (مسجد، میاں گڑھی، کوھاٹم    )"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6400307585,
+      "lat": 33.2987528,
+      "lon": 71.2030349,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Shakoor Ustad, Makori",
+        "phone": "00923465149071"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6406302189,
+      "lat": 34.0357803,
+      "lon": 71.5798332,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Pakistan Plaza .  پاکستان پلازہ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6459076385,
+      "lat": 34.2214556,
+      "lon": 71.5663778,
+      "tags": {
+        "addr:postcode": "24630",
+        "addr:street": "Shabqadar Bazaar",
+        "amenity": "doctors",
+        "name": "Dr Mohammad Zaib",
+        "opening_hours": "Mo-Su 16:00-18:00",
+        "phone": "0301 5950850"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6536727726,
+      "lat": 34.5060867,
+      "lon": 72.4600681,
+      "tags": {
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "orthopaedics",
+        "name": "Dr Dil Raj"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6565445386,
+      "lat": 24.9813735,
+      "lon": 68.8520979,
+      "tags": {
+        "addr:housenumber": "ward 2",
+        "addr:street": "Rajokhanani",
+        "amenity": "doctors",
+        "name": "MIR BHUTTO HOUSE Rajokhanani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6819087290,
+      "lat": 34.620268,
+      "lon": 71.8115842,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dr. Bakhtzada"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7020599786,
+      "lat": 31.418987,
+      "lon": 73.077446,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Shezad medical store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7077431285,
+      "lat": 31.4745626,
+      "lon": 74.2859699,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Mamu gher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7796821385,
+      "lat": 31.5832978,
+      "lon": 74.3463592,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dr. Ehsan ul Haq (Orthopedic S",
+        "name:en": "Dr. Ehsan ul Haq (Orthopedic Specialist)",
+        "phone": "03174949484"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8058453485,
+      "lat": 31.485444,
+      "lon": 74.4121793,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Shahzad Clinic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8058453585,
+      "lat": 31.4854381,
+      "lon": 74.4121711,
+      "tags": {
+        "addr:street": "Street no 2 Bedian Road",
+        "amenity": "doctors",
+        "name": "Shahzad Clinic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8063291085,
+      "lat": 33.5250327,
+      "lon": 73.1616276,
+      "tags": {
+        "amenity": "doctors",
+        "name": "susral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8147476551,
+      "lat": 34.0524102,
+      "lon": 72.690516,
+      "tags": {
+        "addr:street": "Mehran Coloney",
+        "amenity": "doctors",
+        "name": "Fida Hassan Mamu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8202069617,
+      "lat": 25.4271073,
+      "lon": 68.26543,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dr Ghulam Zuhra Channa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8598317609,
+      "lat": 32.0905337,
+      "lon": 72.6690969,
+      "tags": {
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Dr Fazal Laser Eye Center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8737523717,
+      "lat": 30.0126857,
+      "lon": 71.7055548,
+      "tags": {
+        "addr:housenumber": "138",
+        "addr:street": "Thattha Road",
+        "amenity": "doctors",
+        "email": "faisalmajeed138@gmail.com",
+        "name": "Faisal",
+        "phone": "03017603038"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8792035265,
+      "lat": 29.3984833,
+      "lon": 71.6509656,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Hijama centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8808200917,
+      "lat": 29.1455983,
+      "lon": 71.248653,
+      "tags": {
+        "addr:postcode": "63350",
+        "amenity": "doctors",
+        "name": "Rescue 1122",
+        "phone": "00921122"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8891915117,
+      "lat": 24.9602917,
+      "lon": 67.1452399,
+      "tags": {
+        "amenity": "doctors",
+        "name": "Chachu doctor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9610802817,
+      "lat": 34.1923143,
+      "lon": 72.0438788,
+      "tags": {
+        "addr:postcode": "23200",
+        "addr:street": "Clock Tower, Shamsi Road",
+        "amenity": "doctors",
+        "name": "Dr.Syed Ashfaq Ali Psychiatrist’s Clinic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9948940518,
+      "lat": 35.3871144,
+      "lon": 74.5798133,
+      "tags": {
+        "amenity": "doctors",
+        "name:en": "First Aid Post"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9952504117,
+      "lat": 31.4175296,
+      "lon": 73.1043627,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "38000",
+        "addr:street": "East Canal Road",
+        "amenity": "doctors",
+        "name": "Dr. Naeem Hameed Cardiologist",
+        "phone": "03215985482"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258521348,
+      "nodes": [
+        2638674861,
+        2638674867,
+        2638674871,
+        2638674875,
+        2638674861
+      ],
+      "tags": {
+        "addr:city": "Gujar Khan",
+        "addr:housename": "Near DSP Office",
+        "addr:street": "Housing Scheme No.1",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Ejaz Hafiz Rana, Children Hospital",
+        "opening_hours": "9:00-18:00",
+        "phone": "+92 51 3510883",
+        "toilets:wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258522573,
+      "nodes": [
+        2638701557,
+        2638701558,
+        2638701559,
+        2638701560,
+        2638701557
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Rahim Hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258925831,
+      "nodes": [
+        2642323107,
+        2642323108,
+        2642323109,
+        2642323110,
+        2642323107
+      ],
+      "tags": {
+        "addr:city": "Mandra",
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Al Murtaza Meternity Hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 396146325,
+      "nodes": [
+        3989732804,
+        3989732816,
+        3989732814,
+        3989732802,
+        3989732804
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "Aga Khan Family Health Center Khot"
+      }
+    },
+    {
+      "type": "way",
+      "id": 396654740,
+      "nodes": [
+        3994783881,
+        3994783889,
+        3994783891,
+        3994783888,
+        3994783881
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dispensary"
+      }
+    },
+    {
+      "type": "way",
+      "id": 396654741,
+      "nodes": [
+        3994783882,
+        3994783885,
+        3994783890,
+        3994783884,
+        3994783882
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "name": "Dispensary"
+      }
+    },
+    {
+      "type": "way",
+      "id": 396693005,
+      "nodes": [
+        3995204256,
+        3995204262,
+        3995204264,
+        3995204257,
+        3995204256
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "name": "Govt. Dispensary"
+      }
+    },
+    {
+      "type": "way",
+      "id": 396822395,
+      "nodes": [
+        3996662916,
+        3996662926,
+        3996662919,
+        3996662921,
+        3996662917,
+        3996662914,
+        3996662910,
+        3996662908,
+        3996662911,
+        3996662906,
+        3996662909,
+        3996662915,
+        3996662916
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "name": "Health Centre Jandrote"
+      }
+    },
+    {
+      "type": "way",
+      "id": 397014255,
+      "nodes": [
+        3998441114,
+        6838872946,
+        6838872947,
+        6838872948,
+        3998446055,
+        6838872949,
+        3998446050,
+        6838872944,
+        3998446028,
+        6838872945,
+        3998441114
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "Dispensary"
+      }
+    },
+    {
+      "type": "way",
+      "id": 397016504,
+      "nodes": [
+        3998472034,
+        3998472038,
+        3998472039,
+        3998472032,
+        3998472034
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor"
+      }
+    },
+    {
+      "type": "way",
+      "id": 397598776,
+      "nodes": [
+        4003853022,
+        4003853084,
+        4003853064,
+        4003853007,
+        4003853022
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398164541,
+      "nodes": [
+        4009344964,
+        4009344985,
+        4009345093,
+        4009344975,
+        4009344964
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398348414,
+      "nodes": [
+        4011126091,
+        4011126093,
+        4011126101,
+        4011126087,
+        4011126091
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398471746,
+      "nodes": [
+        4012261353,
+        4012261362,
+        4012261365,
+        4012261361,
+        4012261364,
+        4012261357,
+        4012261353
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398489187,
+      "nodes": [
+        4012413119,
+        4012413155,
+        4012413161,
+        4012413132,
+        4012413119
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "name": "Family Health Centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398489188,
+      "nodes": [
+        4012413125,
+        4012413143,
+        4012413148,
+        4012413141,
+        4012413146,
+        4012413150,
+        4012413154,
+        4012413134,
+        4012413125
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "name": "Family Health Centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398508240,
+      "nodes": [
+        4012568978,
+        4012569097,
+        4012569115,
+        4012569099,
+        4012568978
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398647012,
+      "nodes": [
+        4013958616,
+        4013958638,
+        4013958642,
+        4013958649,
+        4013958648,
+        4013958656,
+        4013958666,
+        4013958661,
+        4013958668,
+        4013958636,
+        4013958616
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "name": "Health Centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398709489,
+      "nodes": [
+        4014587429,
+        4014587470,
+        4014587452,
+        4014587414,
+        4014587429
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398883025,
+      "nodes": [
+        4016198507,
+        4016198524,
+        4016198498,
+        4016198485,
+        4016198507
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 398913854,
+      "nodes": [
+        4016483166,
+        4016483177,
+        4016483220,
+        4016483207,
+        4016483187,
+        4016483193,
+        4016483166
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399183858,
+      "nodes": [
+        4019335581,
+        4019335586,
+        4019335593,
+        4019335607,
+        4019335591,
+        4019335574,
+        4019335579,
+        4019335575,
+        4019335581
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399234538,
+      "nodes": [
+        4019737694,
+        4019737713,
+        4019737630,
+        4019737614,
+        4019737694
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes",
+        "name": "T.B control"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399351934,
+      "nodes": [
+        4020903088,
+        4020903103,
+        4020903078,
+        4020903066,
+        4020903088
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399351938,
+      "nodes": [
+        4020903083,
+        4020903098,
+        4020903107,
+        4020903104,
+        4020903111,
+        4020903115,
+        4020903118,
+        4020903106,
+        4020903083
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399354851,
+      "nodes": [
+        4020927515,
+        4020927525,
+        4020927531,
+        4020927523,
+        4020927515
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399434572,
+      "nodes": [
+        4021801382,
+        4021801390,
+        4021801388,
+        4021801380,
+        4021801382
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399572470,
+      "nodes": [
+        4023016150,
+        4023016160,
+        4023016172,
+        4023016156,
+        4023016150
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399615399,
+      "nodes": [
+        4023343602,
+        4023343610,
+        4023343607,
+        4023343599,
+        4023343602
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399643400,
+      "nodes": [
+        4023552281,
+        4023552286,
+        4023552287,
+        4023552282,
+        4023552281
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399655184,
+      "nodes": [
+        4023635872,
+        4023635888,
+        4023635881,
+        4023635865,
+        4023635872
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399827237,
+      "nodes": [
+        4025088888,
+        4025088847,
+        4025088858,
+        4025089007,
+        4025088998,
+        4025089036,
+        4025089046,
+        4025089077,
+        4025089065,
+        4025089093,
+        4025089062,
+        4025089044,
+        4025089034,
+        4025089009,
+        4025089015,
+        4025088868,
+        4025088859,
+        4025088800,
+        4025088814,
+        4025088647,
+        4025088888
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399827239,
+      "nodes": [
+        4025089016,
+        4025089055,
+        4025089052,
+        4025088869,
+        4025089016
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399878125,
+      "nodes": [
+        4025488099,
+        4025488120,
+        4025488177,
+        4025488155,
+        4025488099
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399878126,
+      "nodes": [
+        4025490044,
+        4025490086,
+        4025490093,
+        4025490054,
+        4025490044
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399878128,
+      "nodes": [
+        4025487913,
+        4025488094,
+        4025488118,
+        4025487941,
+        4025487913
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 399921645,
+      "nodes": [
+        4025868220,
+        4025868235,
+        4025868274,
+        4025868254,
+        4025868220
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400094527,
+      "nodes": [
+        4027216299,
+        4027216332,
+        4027216344,
+        4027216303,
+        4027216299
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400094535,
+      "nodes": [
+        4027215834,
+        4027215843,
+        4027215852,
+        4027215845,
+        4027215836,
+        4027215834
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400150593,
+      "nodes": [
+        4027655041,
+        4027655074,
+        4027655121,
+        4027655080,
+        4027655041
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400183519,
+      "nodes": [
+        4027917626,
+        4027917674,
+        4027917701,
+        4027917654,
+        4027917626
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400192037,
+      "nodes": [
+        4027980701,
+        4027980713,
+        4027980711,
+        4027980699,
+        4027980701
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400368742,
+      "nodes": [
+        4029402234,
+        4029402249,
+        4029402256,
+        4029402245,
+        4029402234
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400399596,
+      "nodes": [
+        4029635433,
+        4029635438,
+        4029635441,
+        4029635436,
+        4029635433
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400416233,
+      "nodes": [
+        4029782115,
+        4029782120,
+        4029782125,
+        4029782123,
+        4029782115
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400696402,
+      "nodes": [
+        4032297491,
+        4032297545,
+        4032297556,
+        4032297501,
+        4032297491
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400735658,
+      "nodes": [
+        4032598004,
+        4032598055,
+        4032597991,
+        4032597952,
+        4032598004
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400735659,
+      "nodes": [
+        4032598197,
+        4032598241,
+        4032598073,
+        4032598026,
+        4032598197
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400735665,
+      "nodes": [
+        4032598210,
+        4032598247,
+        4032598410,
+        4032598266,
+        4032598246,
+        4032598257,
+        4032598210
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400735666,
+      "nodes": [
+        4032598022,
+        4032598084,
+        4032598048,
+        4032598001,
+        4032597983,
+        4032597968,
+        4032598022
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400749730,
+      "nodes": [
+        4032693337,
+        4032693356,
+        4032693345,
+        4032693329,
+        4032693337
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400782986,
+      "nodes": [
+        4032962153,
+        4032962162,
+        4361100154,
+        4361100155,
+        4032962165,
+        4032962160,
+        4032962153
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400793198,
+      "nodes": [
+        4033058066,
+        4033058086,
+        4033058089,
+        4033058069,
+        4033058066
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400793203,
+      "nodes": [
+        4033057914,
+        4033057954,
+        4033057953,
+        4033057934,
+        4033057933,
+        4033057913,
+        4033057914
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "school"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400919861,
+      "nodes": [
+        4034150924,
+        4034150931,
+        4034150919,
+        4034150903,
+        4034150924
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400919863,
+      "nodes": [
+        4034151370,
+        4034151392,
+        4034151394,
+        4034151375,
+        4034151370
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400965381,
+      "nodes": [
+        4034512099,
+        4034512133,
+        4034512123,
+        4034512158,
+        4034512175,
+        4034512178,
+        4034512187,
+        4034512168,
+        4034512166,
+        4034512110,
+        4034512099
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "name": "Health Centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400965382,
+      "nodes": [
+        4034512122,
+        4034512165,
+        4034512183,
+        4034512150,
+        4034512122
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "name": "Health Centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 401135675,
+      "nodes": [
+        4035917036,
+        4035917050,
+        4035917043,
+        4035917031,
+        4035917036
+      ],
+      "tags": {
+        "amenity": "doctors"
+      }
+    },
+    {
+      "type": "way",
+      "id": 433078671,
+      "nodes": [
+        4319881447,
+        4319881456,
+        4319881450,
+        4319881460,
+        4319881447
+      ],
+      "tags": {
+        "addr:street": "Sector D/5، Lalazar Ave, Phase 1 Hayatabad, Peshawar, Khyber Pakhtunkhwa, Pakistan",
+        "amenity": "doctors",
+        "name": "Malak Saad Market"
+      }
+    },
+    {
+      "type": "way",
+      "id": 442733456,
+      "nodes": [
+        4403950199,
+        4403950193,
+        4403950195,
+        4403950197,
+        4403950199
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 499270919,
+      "nodes": [
+        4905664927,
+        4905664928,
+        4905664929,
+        4905664930,
+        4905664927
+      ],
+      "tags": {
+        "addr:city": "Gujranwala",
+        "addr:street": "DC Road",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "Dr. Zafar Chaudhari & Dr. Sonia Chaudhari"
+      }
+    },
+    {
+      "type": "way",
+      "id": 678342968,
+      "nodes": [
+        6351692121,
+        6351692132,
+        6351692154,
+        6351692115,
+        6351692121
+      ],
+      "tags": {
+        "amenity": "doctors",
+        "building": "yes",
+        "building:colour": "red",
+        "building:levels": "1",
+        "building:material": "brick",
+        "building:use": "medical",
+        "name": "رورل ڈسپنسری سرکی",
+        "name:en": "Rural Dispensary Suraki",
+        "roof:shape": "flat"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6351692115,
+      "lat": 32.5263778,
+      "lon": 72.1320013
+    },
+    {
+      "type": "node",
+      "id": 6351692121,
+      "lat": 32.5264454,
+      "lon": 72.1317996
+    },
+    {
+      "type": "node",
+      "id": 6351692132,
+      "lat": 32.5262999,
+      "lon": 72.1317387
+    },
+    {
+      "type": "node",
+      "id": 6351692154,
+      "lat": 32.526239,
+      "lon": 72.1319445
+    },
+    {
+      "type": "node",
+      "id": 4319881447,
+      "lat": 33.9746308,
+      "lon": 71.4288847
+    },
+    {
+      "type": "node",
+      "id": 4319881450,
+      "lat": 33.975121,
+      "lon": 71.4281368
+    },
+    {
+      "type": "node",
+      "id": 4319881456,
+      "lat": 33.9746701,
+      "lon": 71.4281188
+    },
+    {
+      "type": "node",
+      "id": 4319881460,
+      "lat": 33.9750873,
+      "lon": 71.4288975
+    },
+    {
+      "type": "node",
+      "id": 4403950193,
+      "lat": 33.978105,
+      "lon": 71.439595
+    },
+    {
+      "type": "node",
+      "id": 4403950195,
+      "lat": 33.9781059,
+      "lon": 71.4399191
+    },
+    {
+      "type": "node",
+      "id": 4403950197,
+      "lat": 33.9783428,
+      "lon": 71.4398898
+    },
+    {
+      "type": "node",
+      "id": 4403950199,
+      "lat": 33.9783408,
+      "lon": 71.4396215
+    },
+    {
+      "type": "node",
+      "id": 2642323107,
+      "lat": 33.3550024,
+      "lon": 73.2440463
+    },
+    {
+      "type": "node",
+      "id": 2642323108,
+      "lat": 33.3549906,
+      "lon": 73.2442516
+    },
+    {
+      "type": "node",
+      "id": 2642323109,
+      "lat": 33.3547541,
+      "lon": 73.244287
+    },
+    {
+      "type": "node",
+      "id": 2642323110,
+      "lat": 33.3547541,
+      "lon": 73.2440109
+    },
+    {
+      "type": "node",
+      "id": 2638674861,
+      "lat": 33.257986,
+      "lon": 73.3048876
+    },
+    {
+      "type": "node",
+      "id": 2638674867,
+      "lat": 33.258111,
+      "lon": 73.3050698
+    },
+    {
+      "type": "node",
+      "id": 2638674871,
+      "lat": 33.2579704,
+      "lon": 73.3052332
+    },
+    {
+      "type": "node",
+      "id": 2638674875,
+      "lat": 33.2578376,
+      "lon": 73.3050371
+    },
+    {
+      "type": "node",
+      "id": 2638701557,
+      "lat": 33.2583123,
+      "lon": 73.3058125
+    },
+    {
+      "type": "node",
+      "id": 2638701558,
+      "lat": 33.2583943,
+      "lon": 73.3059292
+    },
+    {
+      "type": "node",
+      "id": 2638701559,
+      "lat": 33.2582185,
+      "lon": 73.306074
+    },
+    {
+      "type": "node",
+      "id": 2638701560,
+      "lat": 33.2581365,
+      "lon": 73.3059666
+    },
+    {
+      "type": "node",
+      "id": 3989732802,
+      "lat": 36.5017801,
+      "lon": 72.5275699
+    },
+    {
+      "type": "node",
+      "id": 3989732804,
+      "lat": 36.5018015,
+      "lon": 72.5273736
+    },
+    {
+      "type": "node",
+      "id": 3989732814,
+      "lat": 36.5018876,
+      "lon": 72.5275816
+    },
+    {
+      "type": "node",
+      "id": 3989732816,
+      "lat": 36.501909,
+      "lon": 72.5273853
+    },
+    {
+      "type": "node",
+      "id": 3995204256,
+      "lat": 36.0828886,
+      "lon": 73.3492682
+    },
+    {
+      "type": "node",
+      "id": 3995204257,
+      "lat": 36.0829152,
+      "lon": 73.3493461
+    },
+    {
+      "type": "node",
+      "id": 3995204262,
+      "lat": 36.082991,
+      "lon": 73.3492332
+    },
+    {
+      "type": "node",
+      "id": 3995204264,
+      "lat": 36.0830176,
+      "lon": 73.3493112
+    },
+    {
+      "type": "node",
+      "id": 3994783881,
+      "lat": 36.1618595,
+      "lon": 73.274555
+    },
+    {
+      "type": "node",
+      "id": 3994783882,
+      "lat": 36.1618697,
+      "lon": 73.2744534
+    },
+    {
+      "type": "node",
+      "id": 3994783884,
+      "lat": 36.1619049,
+      "lon": 73.2744964
+    },
+    {
+      "type": "node",
+      "id": 3994783885,
+      "lat": 36.1619052,
+      "lon": 73.2744243
+    },
+    {
+      "type": "node",
+      "id": 3994783888,
+      "lat": 36.1619235,
+      "lon": 73.2746337
+    },
+    {
+      "type": "node",
+      "id": 3994783889,
+      "lat": 36.1619289,
+      "lon": 73.2744984
+    },
+    {
+      "type": "node",
+      "id": 3994783890,
+      "lat": 36.1619404,
+      "lon": 73.2744673
+    },
+    {
+      "type": "node",
+      "id": 3994783891,
+      "lat": 36.161993,
+      "lon": 73.2745771
+    },
+    {
+      "type": "node",
+      "id": 3996662906,
+      "lat": 36.2446427,
+      "lon": 73.3776892
+    },
+    {
+      "type": "node",
+      "id": 3996662908,
+      "lat": 36.2446558,
+      "lon": 73.3778335
+    },
+    {
+      "type": "node",
+      "id": 3996662909,
+      "lat": 36.2446701,
+      "lon": 73.3776112
+    },
+    {
+      "type": "node",
+      "id": 3996662910,
+      "lat": 36.2446981,
+      "lon": 73.3778483
+    },
+    {
+      "type": "node",
+      "id": 3996662911,
+      "lat": 36.2446994,
+      "lon": 73.3777091
+    },
+    {
+      "type": "node",
+      "id": 3996662914,
+      "lat": 36.244712,
+      "lon": 73.3778087
+    },
+    {
+      "type": "node",
+      "id": 3996662915,
+      "lat": 36.2447275,
+      "lon": 73.3776313
+    },
+    {
+      "type": "node",
+      "id": 3996662916,
+      "lat": 36.2447406,
+      "lon": 73.377594
+    },
+    {
+      "type": "node",
+      "id": 3996662917,
+      "lat": 36.2447436,
+      "lon": 73.3778198
+    },
+    {
+      "type": "node",
+      "id": 3996662919,
+      "lat": 36.2447652,
+      "lon": 73.3777197
+    },
+    {
+      "type": "node",
+      "id": 3996662921,
+      "lat": 36.2447772,
+      "lon": 73.3777239
+    },
+    {
+      "type": "node",
+      "id": 3996662926,
+      "lat": 36.2448018,
+      "lon": 73.3776155
+    },
+    {
+      "type": "node",
+      "id": 4014587414,
+      "lat": 36.3962852,
+      "lon": 73.2928203
+    },
+    {
+      "type": "node",
+      "id": 4014587429,
+      "lat": 36.3963206,
+      "lon": 73.2927145
+    },
+    {
+      "type": "node",
+      "id": 4014587452,
+      "lat": 36.3964367,
+      "lon": 73.2928709
+    },
+    {
+      "type": "node",
+      "id": 4014587470,
+      "lat": 36.3964721,
+      "lon": 73.2927651
+    },
+    {
+      "type": "node",
+      "id": 4012413119,
+      "lat": 36.3057371,
+      "lon": 73.3833292
+    },
+    {
+      "type": "node",
+      "id": 4012413125,
+      "lat": 36.3057509,
+      "lon": 73.3831149
+    },
+    {
+      "type": "node",
+      "id": 4012413132,
+      "lat": 36.3057983,
+      "lon": 73.3834523
+    },
+    {
+      "type": "node",
+      "id": 4012413134,
+      "lat": 36.3058169,
+      "lon": 73.3832387
+    },
+    {
+      "type": "node",
+      "id": 4012413141,
+      "lat": 36.3058683,
+      "lon": 73.3831157
+    },
+    {
+      "type": "node",
+      "id": 4012413143,
+      "lat": 36.3058734,
+      "lon": 73.3830496
+    },
+    {
+      "type": "node",
+      "id": 4012413146,
+      "lat": 36.3058844,
+      "lon": 73.3831459
+    },
+    {
+      "type": "node",
+      "id": 4012413148,
+      "lat": 36.3058997,
+      "lon": 73.3830989
+    },
+    {
+      "type": "node",
+      "id": 4012413150,
+      "lat": 36.3059089,
+      "lon": 73.3831328
+    },
+    {
+      "type": "node",
+      "id": 4012413154,
+      "lat": 36.3059325,
+      "lon": 73.3831771
+    },
+    {
+      "type": "node",
+      "id": 4012413155,
+      "lat": 36.3059333,
+      "lon": 73.3832315
+    },
+    {
+      "type": "node",
+      "id": 4012413161,
+      "lat": 36.3059946,
+      "lon": 73.3833547
+    },
+    {
+      "type": "node",
+      "id": 4012568978,
+      "lat": 36.3266827,
+      "lon": 73.3632782
+    },
+    {
+      "type": "node",
+      "id": 4012569097,
+      "lat": 36.3267685,
+      "lon": 73.3632184
+    },
+    {
+      "type": "node",
+      "id": 4012569099,
+      "lat": 36.3267737,
+      "lon": 73.3634087
+    },
+    {
+      "type": "node",
+      "id": 4012569115,
+      "lat": 36.3268595,
+      "lon": 73.3633489
+    },
+    {
+      "type": "node",
+      "id": 4013958616,
+      "lat": 36.3707446,
+      "lon": 73.3325713
+    },
+    {
+      "type": "node",
+      "id": 4013958636,
+      "lat": 36.3708057,
+      "lon": 73.3326959
+    },
+    {
+      "type": "node",
+      "id": 4013958638,
+      "lat": 36.3708098,
+      "lon": 73.3325393
+    },
+    {
+      "type": "node",
+      "id": 4013958642,
+      "lat": 36.3708226,
+      "lon": 73.3325653
+    },
+    {
+      "type": "node",
+      "id": 4013958648,
+      "lat": 36.3708436,
+      "lon": 73.3325159
+    },
+    {
+      "type": "node",
+      "id": 4013958649,
+      "lat": 36.3708591,
+      "lon": 73.3325474
+    },
+    {
+      "type": "node",
+      "id": 4013958656,
+      "lat": 36.3708843,
+      "lon": 73.3324959
+    },
+    {
+      "type": "node",
+      "id": 4013958661,
+      "lat": 36.370899,
+      "lon": 73.3325803
+    },
+    {
+      "type": "node",
+      "id": 4013958666,
+      "lat": 36.3709206,
+      "lon": 73.3325697
+    },
+    {
+      "type": "node",
+      "id": 4013958668,
+      "lat": 36.3709266,
+      "lon": 73.3326366
+    },
+    {
+      "type": "node",
+      "id": 4019335574,
+      "lat": 36.4794982,
+      "lon": 73.2840461
+    },
+    {
+      "type": "node",
+      "id": 4019335575,
+      "lat": 36.4794988,
+      "lon": 73.2839785
+    },
+    {
+      "type": "node",
+      "id": 4019335579,
+      "lat": 36.47953,
+      "lon": 73.284
+    },
+    {
+      "type": "node",
+      "id": 4019335581,
+      "lat": 36.4795313,
+      "lon": 73.2839314
+    },
+    {
+      "type": "node",
+      "id": 4019335586,
+      "lat": 36.4795684,
+      "lon": 73.283957
+    },
+    {
+      "type": "node",
+      "id": 4019335591,
+      "lat": 36.4795956,
+      "lon": 73.2841134
+    },
+    {
+      "type": "node",
+      "id": 4019335593,
+      "lat": 36.4796115,
+      "lon": 73.2838947
+    },
+    {
+      "type": "node",
+      "id": 4019335607,
+      "lat": 36.479703,
+      "lon": 73.2839579
+    },
+    {
+      "type": "node",
+      "id": 4016198485,
+      "lat": 36.4206531,
+      "lon": 73.3742888
+    },
+    {
+      "type": "node",
+      "id": 4016198498,
+      "lat": 36.4207255,
+      "lon": 73.3743749
+    },
+    {
+      "type": "node",
+      "id": 4016198507,
+      "lat": 36.4207694,
+      "lon": 73.3741909
+    },
+    {
+      "type": "node",
+      "id": 4016198524,
+      "lat": 36.4208419,
+      "lon": 73.3742769
+    },
+    {
+      "type": "node",
+      "id": 4016483166,
+      "lat": 36.4928495,
+      "lon": 73.3950491
+    },
+    {
+      "type": "node",
+      "id": 4016483177,
+      "lat": 36.4929005,
+      "lon": 73.3949642
+    },
+    {
+      "type": "node",
+      "id": 4016483187,
+      "lat": 36.492942,
+      "lon": 73.3951609
+    },
+    {
+      "type": "node",
+      "id": 4016483193,
+      "lat": 36.4929668,
+      "lon": 73.3951195
+    },
+    {
+      "type": "node",
+      "id": 4016483207,
+      "lat": 36.4930348,
+      "lon": 73.3952166
+    },
+    {
+      "type": "node",
+      "id": 4016483220,
+      "lat": 36.4931106,
+      "lon": 73.3950904
+    },
+    {
+      "type": "node",
+      "id": 4012261353,
+      "lat": 36.2777333,
+      "lon": 73.4050223
+    },
+    {
+      "type": "node",
+      "id": 4012261357,
+      "lat": 36.2777836,
+      "lon": 73.4051946
+    },
+    {
+      "type": "node",
+      "id": 4012261361,
+      "lat": 36.2778145,
+      "lon": 73.4050809
+    },
+    {
+      "type": "node",
+      "id": 4012261362,
+      "lat": 36.2778293,
+      "lon": 73.4049942
+    },
+    {
+      "type": "node",
+      "id": 4012261364,
+      "lat": 36.2778427,
+      "lon": 73.4051773
+    },
+    {
+      "type": "node",
+      "id": 4012261365,
+      "lat": 36.2778515,
+      "lon": 73.40507
+    },
+    {
+      "type": "node",
+      "id": 4905664927,
+      "lat": 32.1787536,
+      "lon": 74.1957104
+    },
+    {
+      "type": "node",
+      "id": 4905664928,
+      "lat": 32.1785674,
+      "lon": 74.195705
+    },
+    {
+      "type": "node",
+      "id": 4905664929,
+      "lat": 32.1785697,
+      "lon": 74.1959545
+    },
+    {
+      "type": "node",
+      "id": 4905664930,
+      "lat": 32.1787558,
+      "lon": 74.1959625
+    },
+    {
+      "type": "node",
+      "id": 4019737614,
+      "lat": 35.4673544,
+      "lon": 75.3444063
+    },
+    {
+      "type": "node",
+      "id": 4019737630,
+      "lat": 35.4673741,
+      "lon": 75.3444953
+    },
+    {
+      "type": "node",
+      "id": 4019737694,
+      "lat": 35.4674971,
+      "lon": 75.3443747
+    },
+    {
+      "type": "node",
+      "id": 4019737713,
+      "lat": 35.4675168,
+      "lon": 75.3444637
+    },
+    {
+      "type": "node",
+      "id": 3998441114,
+      "lat": 35.9398432,
+      "lon": 74.1227286
+    },
+    {
+      "type": "node",
+      "id": 3998446028,
+      "lat": 35.9398477,
+      "lon": 74.1227826
+    },
+    {
+      "type": "node",
+      "id": 3998446050,
+      "lat": 35.9399421,
+      "lon": 74.1228413
+    },
+    {
+      "type": "node",
+      "id": 3998446055,
+      "lat": 35.9399187,
+      "lon": 74.1227521
+    },
+    {
+      "type": "node",
+      "id": 6838872944,
+      "lat": 35.9398426,
+      "lon": 74.1228215
+    },
+    {
+      "type": "node",
+      "id": 6838872945,
+      "lat": 35.9398365,
+      "lon": 74.1227804
+    },
+    {
+      "type": "node",
+      "id": 6838872946,
+      "lat": 35.9398764,
+      "lon": 74.1227352
+    },
+    {
+      "type": "node",
+      "id": 6838872947,
+      "lat": 35.9398783,
+      "lon": 74.1227211
+    },
+    {
+      "type": "node",
+      "id": 6838872948,
+      "lat": 35.9399157,
+      "lon": 74.1227286
+    },
+    {
+      "type": "node",
+      "id": 6838872949,
+      "lat": 35.9399528,
+      "lon": 74.1227589
+    },
+    {
+      "type": "node",
+      "id": 3998472032,
+      "lat": 35.9611347,
+      "lon": 74.2087416
+    },
+    {
+      "type": "node",
+      "id": 3998472034,
+      "lat": 35.9611011,
+      "lon": 74.2086499
+    },
+    {
+      "type": "node",
+      "id": 3998472038,
+      "lat": 35.9612994,
+      "lon": 74.2085391
+    },
+    {
+      "type": "node",
+      "id": 3998472039,
+      "lat": 35.961333,
+      "lon": 74.2086309
+    },
+    {
+      "type": "node",
+      "id": 4011126087,
+      "lat": 35.975773,
+      "lon": 74.3241259
+    },
+    {
+      "type": "node",
+      "id": 4011126091,
+      "lat": 35.9757173,
+      "lon": 74.3240179
+    },
+    {
+      "type": "node",
+      "id": 4011126093,
+      "lat": 35.9757967,
+      "lon": 74.3239552
+    },
+    {
+      "type": "node",
+      "id": 4011126101,
+      "lat": 35.9758525,
+      "lon": 74.3240633
+    },
+    {
+      "type": "node",
+      "id": 4003853007,
+      "lat": 35.9152653,
+      "lon": 74.3548121
+    },
+    {
+      "type": "node",
+      "id": 4003853022,
+      "lat": 35.9153145,
+      "lon": 74.3546366
+    },
+    {
+      "type": "node",
+      "id": 4003853064,
+      "lat": 35.9154084,
+      "lon": 74.3548522
+    },
+    {
+      "type": "node",
+      "id": 4003853084,
+      "lat": 35.9154576,
+      "lon": 74.3546767
+    },
+    {
+      "type": "node",
+      "id": 4023343599,
+      "lat": 36.2409662,
+      "lon": 74.3933713
+    },
+    {
+      "type": "node",
+      "id": 4023343602,
+      "lat": 36.2410072,
+      "lon": 74.3932384
+    },
+    {
+      "type": "node",
+      "id": 4023343607,
+      "lat": 36.2411119,
+      "lon": 74.3934163
+    },
+    {
+      "type": "node",
+      "id": 4023343610,
+      "lat": 36.2411529,
+      "lon": 74.3932833
+    },
+    {
+      "type": "node",
+      "id": 4023552281,
+      "lat": 36.2428077,
+      "lon": 74.4320465
+    },
+    {
+      "type": "node",
+      "id": 4023552282,
+      "lat": 36.2428209,
+      "lon": 74.4321597
+    },
+    {
+      "type": "node",
+      "id": 4023552286,
+      "lat": 36.2428822,
+      "lon": 74.432033
+    },
+    {
+      "type": "node",
+      "id": 4023552287,
+      "lat": 36.2428955,
+      "lon": 74.4321463
+    },
+    {
+      "type": "node",
+      "id": 4023635865,
+      "lat": 36.2325542,
+      "lon": 74.4395855
+    },
+    {
+      "type": "node",
+      "id": 4023635872,
+      "lat": 36.2325861,
+      "lon": 74.4394286
+    },
+    {
+      "type": "node",
+      "id": 4023635881,
+      "lat": 36.2326476,
+      "lon": 74.4396045
+    },
+    {
+      "type": "node",
+      "id": 4023635888,
+      "lat": 36.2326795,
+      "lon": 74.4394476
+    },
+    {
+      "type": "node",
+      "id": 4025088869,
+      "lat": 36.2471771,
+      "lon": 74.4547012
+    },
+    {
+      "type": "node",
+      "id": 4025089016,
+      "lat": 36.2471783,
+      "lon": 74.4545729
+    },
+    {
+      "type": "node",
+      "id": 4025089052,
+      "lat": 36.2472657,
+      "lon": 74.454702
+    },
+    {
+      "type": "node",
+      "id": 4025089055,
+      "lat": 36.247267,
+      "lon": 74.4545737
+    },
+    {
+      "type": "node",
+      "id": 4025088647,
+      "lat": 36.2470639,
+      "lon": 74.4568339
+    },
+    {
+      "type": "node",
+      "id": 4025088800,
+      "lat": 36.2471133,
+      "lon": 74.4568725
+    },
+    {
+      "type": "node",
+      "id": 4025088814,
+      "lat": 36.2471199,
+      "lon": 74.4568513
+    },
+    {
+      "type": "node",
+      "id": 4025088847,
+      "lat": 36.2471588,
+      "lon": 74.4567087
+    },
+    {
+      "type": "node",
+      "id": 4025088858,
+      "lat": 36.2471659,
+      "lon": 74.4566857
+    },
+    {
+      "type": "node",
+      "id": 4025088859,
+      "lat": 36.2471659,
+      "lon": 74.4568889
+    },
+    {
+      "type": "node",
+      "id": 4025088868,
+      "lat": 36.2471756,
+      "lon": 74.4568575
+    },
+    {
+      "type": "node",
+      "id": 4025088888,
+      "lat": 36.2471078,
+      "lon": 74.4566928
+    },
+    {
+      "type": "node",
+      "id": 4025088998,
+      "lat": 36.2471997,
+      "lon": 74.4567323
+    },
+    {
+      "type": "node",
+      "id": 4025089007,
+      "lat": 36.2472099,
+      "lon": 74.4566994
+    },
+    {
+      "type": "node",
+      "id": 4025089009,
+      "lat": 36.2472101,
+      "lon": 74.4569052
+    },
+    {
+      "type": "node",
+      "id": 4025089015,
+      "lat": 36.2472206,
+      "lon": 74.4568715
+    },
+    {
+      "type": "node",
+      "id": 4025089034,
+      "lat": 36.2472445,
+      "lon": 74.4569159
+    },
+    {
+      "type": "node",
+      "id": 4025089036,
+      "lat": 36.2472466,
+      "lon": 74.4567469
+    },
+    {
+      "type": "node",
+      "id": 4025089044,
+      "lat": 36.247256,
+      "lon": 74.4568788
+    },
+    {
+      "type": "node",
+      "id": 4025089046,
+      "lat": 36.2472569,
+      "lon": 74.4567136
+    },
+    {
+      "type": "node",
+      "id": 4025089062,
+      "lat": 36.2472733,
+      "lon": 74.4568842
+    },
+    {
+      "type": "node",
+      "id": 4025089065,
+      "lat": 36.2472807,
+      "lon": 74.4567611
+    },
+    {
+      "type": "node",
+      "id": 4025089077,
+      "lat": 36.2472921,
+      "lon": 74.4567245
+    },
+    {
+      "type": "node",
+      "id": 4025089093,
+      "lat": 36.2473089,
+      "lon": 74.4567698
+    },
+    {
+      "type": "node",
+      "id": 4025868220,
+      "lat": 36.2510656,
+      "lon": 74.5313514
+    },
+    {
+      "type": "node",
+      "id": 4025868235,
+      "lat": 36.2511344,
+      "lon": 74.5312853
+    },
+    {
+      "type": "node",
+      "id": 4025868254,
+      "lat": 36.2511781,
+      "lon": 74.5314686
+    },
+    {
+      "type": "node",
+      "id": 4025868274,
+      "lat": 36.2512469,
+      "lon": 74.5314024
+    },
+    {
+      "type": "node",
+      "id": 4025487913,
+      "lat": 36.2618722,
+      "lon": 74.5338481
+    },
+    {
+      "type": "node",
+      "id": 4025487941,
+      "lat": 36.2619206,
+      "lon": 74.5339599
+    },
+    {
+      "type": "node",
+      "id": 4025488094,
+      "lat": 36.2620189,
+      "lon": 74.5337845
+    },
+    {
+      "type": "node",
+      "id": 4025488099,
+      "lat": 36.2620299,
+      "lon": 74.5337854
+    },
+    {
+      "type": "node",
+      "id": 4025488118,
+      "lat": 36.2620674,
+      "lon": 74.5338963
+    },
+    {
+      "type": "node",
+      "id": 4025488120,
+      "lat": 36.2620735,
+      "lon": 74.5337683
+    },
+    {
+      "type": "node",
+      "id": 4025488155,
+      "lat": 36.2621333,
+      "lon": 74.5340496
+    },
+    {
+      "type": "node",
+      "id": 4025488177,
+      "lat": 36.262177,
+      "lon": 74.5340325
+    },
+    {
+      "type": "node",
+      "id": 4025490044,
+      "lat": 36.2644375,
+      "lon": 74.5402946
+    },
+    {
+      "type": "node",
+      "id": 4025490054,
+      "lat": 36.2644551,
+      "lon": 74.5404796
+    },
+    {
+      "type": "node",
+      "id": 4025490086,
+      "lat": 36.2645319,
+      "lon": 74.5402856
+    },
+    {
+      "type": "node",
+      "id": 4025490093,
+      "lat": 36.2645495,
+      "lon": 74.5404706
+    },
+    {
+      "type": "node",
+      "id": 4027215834,
+      "lat": 36.30482,
+      "lon": 74.6522598
+    },
+    {
+      "type": "node",
+      "id": 4027215836,
+      "lat": 36.3048268,
+      "lon": 74.652267
+    },
+    {
+      "type": "node",
+      "id": 4027215843,
+      "lat": 36.3048877,
+      "lon": 74.6521955
+    },
+    {
+      "type": "node",
+      "id": 4027215845,
+      "lat": 36.3049009,
+      "lon": 74.6523449
+    },
+    {
+      "type": "node",
+      "id": 4027215852,
+      "lat": 36.3049686,
+      "lon": 74.6522806
+    },
+    {
+      "type": "node",
+      "id": 4027216299,
+      "lat": 36.3060972,
+      "lon": 74.6549675
+    },
+    {
+      "type": "node",
+      "id": 4027216303,
+      "lat": 36.3061264,
+      "lon": 74.6550691
+    },
+    {
+      "type": "node",
+      "id": 4027216332,
+      "lat": 36.3062481,
+      "lon": 74.6549241
+    },
+    {
+      "type": "node",
+      "id": 4027216344,
+      "lat": 36.3062774,
+      "lon": 74.6550257
+    },
+    {
+      "type": "node",
+      "id": 4009344964,
+      "lat": 35.8389827,
+      "lon": 74.7077731
+    },
+    {
+      "type": "node",
+      "id": 4009344975,
+      "lat": 35.8390396,
+      "lon": 74.7079414
+    },
+    {
+      "type": "node",
+      "id": 4009344985,
+      "lat": 35.8390736,
+      "lon": 74.7077423
+    },
+    {
+      "type": "node",
+      "id": 4009345093,
+      "lat": 35.8391305,
+      "lon": 74.7079107
+    },
+    {
+      "type": "node",
+      "id": 4029782115,
+      "lat": 36.2235606,
+      "lon": 74.7602743
+    },
+    {
+      "type": "node",
+      "id": 4029782120,
+      "lat": 36.2236407,
+      "lon": 74.7601391
+    },
+    {
+      "type": "node",
+      "id": 4029782123,
+      "lat": 36.2236516,
+      "lon": 74.7603282
+    },
+    {
+      "type": "node",
+      "id": 4029782125,
+      "lat": 36.2237317,
+      "lon": 74.7601931
+    },
+    {
+      "type": "node",
+      "id": 4029635433,
+      "lat": 36.2565516,
+      "lon": 74.7469406
+    },
+    {
+      "type": "node",
+      "id": 4029635436,
+      "lat": 36.2566027,
+      "lon": 74.7471018
+    },
+    {
+      "type": "node",
+      "id": 4029635438,
+      "lat": 36.2566272,
+      "lon": 74.7469166
+    },
+    {
+      "type": "node",
+      "id": 4029635441,
+      "lat": 36.2566782,
+      "lon": 74.7470779
+    },
+    {
+      "type": "node",
+      "id": 4029402234,
+      "lat": 36.2756788,
+      "lon": 74.7113583
+    },
+    {
+      "type": "node",
+      "id": 4029402245,
+      "lat": 36.2757638,
+      "lon": 74.7114355
+    },
+    {
+      "type": "node",
+      "id": 4029402249,
+      "lat": 36.2757833,
+      "lon": 74.7112432
+    },
+    {
+      "type": "node",
+      "id": 4029402256,
+      "lat": 36.2758683,
+      "lon": 74.7113204
+    },
+    {
+      "type": "node",
+      "id": 4032297491,
+      "lat": 36.1711423,
+      "lon": 74.9916099
+    },
+    {
+      "type": "node",
+      "id": 4032297501,
+      "lat": 36.1711619,
+      "lon": 74.9917155
+    },
+    {
+      "type": "node",
+      "id": 4032297545,
+      "lat": 36.1712346,
+      "lon": 74.9915929
+    },
+    {
+      "type": "node",
+      "id": 4032297556,
+      "lat": 36.1712541,
+      "lon": 74.9916985
+    },
+    {
+      "type": "node",
+      "id": 4027917626,
+      "lat": 36.3186857,
+      "lon": 74.6820995
+    },
+    {
+      "type": "node",
+      "id": 4027917654,
+      "lat": 36.3187576,
+      "lon": 74.6821646
+    },
+    {
+      "type": "node",
+      "id": 4027917674,
+      "lat": 36.3187959,
+      "lon": 74.6819778
+    },
+    {
+      "type": "node",
+      "id": 4027917701,
+      "lat": 36.3188677,
+      "lon": 74.6820429
+    },
+    {
+      "type": "node",
+      "id": 4027655041,
+      "lat": 36.3271712,
+      "lon": 74.6654642
+    },
+    {
+      "type": "node",
+      "id": 4027655074,
+      "lat": 36.3272545,
+      "lon": 74.6653814
+    },
+    {
+      "type": "node",
+      "id": 4027655080,
+      "lat": 36.32727,
+      "lon": 74.6655635
+    },
+    {
+      "type": "node",
+      "id": 4027655121,
+      "lat": 36.3273533,
+      "lon": 74.6654808
+    },
+    {
+      "type": "node",
+      "id": 4027980699,
+      "lat": 36.3057926,
+      "lon": 74.7342749
+    },
+    {
+      "type": "node",
+      "id": 4027980701,
+      "lat": 36.3058111,
+      "lon": 74.7341776
+    },
+    {
+      "type": "node",
+      "id": 4027980711,
+      "lat": 36.3058822,
+      "lon": 74.7342919
+    },
+    {
+      "type": "node",
+      "id": 4027980713,
+      "lat": 36.3059007,
+      "lon": 74.7341946
+    },
+    {
+      "type": "node",
+      "id": 4032597952,
+      "lat": 36.3880841,
+      "lon": 74.8616067
+    },
+    {
+      "type": "node",
+      "id": 4032597968,
+      "lat": 36.3881254,
+      "lon": 74.8614244
+    },
+    {
+      "type": "node",
+      "id": 4032597983,
+      "lat": 36.3881624,
+      "lon": 74.861482
+    },
+    {
+      "type": "node",
+      "id": 4032597991,
+      "lat": 36.3881805,
+      "lon": 74.861741
+    },
+    {
+      "type": "node",
+      "id": 4032598001,
+      "lat": 36.3881951,
+      "lon": 74.861461
+    },
+    {
+      "type": "node",
+      "id": 4032598004,
+      "lat": 36.3882034,
+      "lon": 74.8615211
+    },
+    {
+      "type": "node",
+      "id": 4032598022,
+      "lat": 36.3882379,
+      "lon": 74.8613521
+    },
+    {
+      "type": "node",
+      "id": 4032598026,
+      "lat": 36.3882447,
+      "lon": 74.8613226
+    },
+    {
+      "type": "node",
+      "id": 4032598048,
+      "lat": 36.3882863,
+      "lon": 74.861603
+    },
+    {
+      "type": "node",
+      "id": 4032598055,
+      "lat": 36.3882998,
+      "lon": 74.8616555
+    },
+    {
+      "type": "node",
+      "id": 4032598073,
+      "lat": 36.3883329,
+      "lon": 74.8614282
+    },
+    {
+      "type": "node",
+      "id": 4032598084,
+      "lat": 36.3883661,
+      "lon": 74.8615517
+    },
+    {
+      "type": "node",
+      "id": 4032598197,
+      "lat": 36.3883869,
+      "lon": 74.8612038
+    },
+    {
+      "type": "node",
+      "id": 4032598210,
+      "lat": 36.3884056,
+      "lon": 74.8611852
+    },
+    {
+      "type": "node",
+      "id": 4032598241,
+      "lat": 36.3884751,
+      "lon": 74.8613094
+    },
+    {
+      "type": "node",
+      "id": 4032598246,
+      "lat": 36.3884833,
+      "lon": 74.8613399
+    },
+    {
+      "type": "node",
+      "id": 4032598247,
+      "lat": 36.388484,
+      "lon": 74.8611282
+    },
+    {
+      "type": "node",
+      "id": 4032598257,
+      "lat": 36.388506,
+      "lon": 74.8613234
+    },
+    {
+      "type": "node",
+      "id": 4032598266,
+      "lat": 36.388525,
+      "lon": 74.8613973
+    },
+    {
+      "type": "node",
+      "id": 4032598410,
+      "lat": 36.3886261,
+      "lon": 74.8613238
+    },
+    {
+      "type": "node",
+      "id": 4032693329,
+      "lat": 36.4057983,
+      "lon": 74.8623021
+    },
+    {
+      "type": "node",
+      "id": 4032693337,
+      "lat": 36.4058299,
+      "lon": 74.8621974
+    },
+    {
+      "type": "node",
+      "id": 4032693345,
+      "lat": 36.4058732,
+      "lon": 74.8623248
+    },
+    {
+      "type": "node",
+      "id": 4032693356,
+      "lat": 36.4059048,
+      "lon": 74.8622201
+    },
+    {
+      "type": "node",
+      "id": 4032962153,
+      "lat": 36.4697185,
+      "lon": 74.8926146
+    },
+    {
+      "type": "node",
+      "id": 4032962160,
+      "lat": 36.4697712,
+      "lon": 74.892689
+    },
+    {
+      "type": "node",
+      "id": 4032962162,
+      "lat": 36.4697782,
+      "lon": 74.8925492
+    },
+    {
+      "type": "node",
+      "id": 4032962165,
+      "lat": 36.469848,
+      "lon": 74.8926049
+    },
+    {
+      "type": "node",
+      "id": 4361100154,
+      "lat": 36.469818,
+      "lon": 74.8926054
+    },
+    {
+      "type": "node",
+      "id": 4361100155,
+      "lat": 36.4698351,
+      "lon": 74.8925866
+    },
+    {
+      "type": "node",
+      "id": 4033057913,
+      "lat": 36.4388903,
+      "lon": 75.3195235
+    },
+    {
+      "type": "node",
+      "id": 4033057914,
+      "lat": 36.4388907,
+      "lon": 75.3193875
+    },
+    {
+      "type": "node",
+      "id": 4033057933,
+      "lat": 36.43894,
+      "lon": 75.3195237
+    },
+    {
+      "type": "node",
+      "id": 4033057934,
+      "lat": 36.4389403,
+      "lon": 75.3194429
+    },
+    {
+      "type": "node",
+      "id": 4033057953,
+      "lat": 36.4390051,
+      "lon": 75.3194431
+    },
+    {
+      "type": "node",
+      "id": 4033057954,
+      "lat": 36.4390053,
+      "lon": 75.3193879
+    },
+    {
+      "type": "node",
+      "id": 4033058066,
+      "lat": 36.4395832,
+      "lon": 75.3204843
+    },
+    {
+      "type": "node",
+      "id": 4033058086,
+      "lat": 36.439665,
+      "lon": 75.3204751
+    },
+    {
+      "type": "node",
+      "id": 4033058069,
+      "lat": 36.4395887,
+      "lon": 75.32056
+    },
+    {
+      "type": "node",
+      "id": 4033058089,
+      "lat": 36.4396705,
+      "lon": 75.3205509
+    },
+    {
+      "type": "node",
+      "id": 4020903083,
+      "lat": 36.5131161,
+      "lon": 73.4128369
+    },
+    {
+      "type": "node",
+      "id": 4020903098,
+      "lat": 36.5132004,
+      "lon": 73.4127148
+    },
+    {
+      "type": "node",
+      "id": 4020903104,
+      "lat": 36.5132302,
+      "lon": 73.4127842
+    },
+    {
+      "type": "node",
+      "id": 4020903106,
+      "lat": 36.5132343,
+      "lon": 73.4129185
+    },
+    {
+      "type": "node",
+      "id": 4020903107,
+      "lat": 36.513253,
+      "lon": 73.4127511
+    },
+    {
+      "type": "node",
+      "id": 4020903111,
+      "lat": 36.513279,
+      "lon": 73.4128179
+    },
+    {
+      "type": "node",
+      "id": 4020903115,
+      "lat": 36.51329,
+      "lon": 73.412802
+    },
+    {
+      "type": "node",
+      "id": 4020903118,
+      "lat": 36.5133067,
+      "lon": 73.4128135
+    },
+    {
+      "type": "node",
+      "id": 4020903066,
+      "lat": 36.5130187,
+      "lon": 73.4137594
+    },
+    {
+      "type": "node",
+      "id": 4020903078,
+      "lat": 36.5130942,
+      "lon": 73.4139266
+    },
+    {
+      "type": "node",
+      "id": 4020903088,
+      "lat": 36.5131476,
+      "lon": 73.4137012
+    },
+    {
+      "type": "node",
+      "id": 4020903103,
+      "lat": 36.513223,
+      "lon": 73.4138685
+    },
+    {
+      "type": "node",
+      "id": 4020927515,
+      "lat": 36.5421765,
+      "lon": 73.4296024
+    },
+    {
+      "type": "node",
+      "id": 4020927523,
+      "lat": 36.5422393,
+      "lon": 73.4297454
+    },
+    {
+      "type": "node",
+      "id": 4020927525,
+      "lat": 36.5422579,
+      "lon": 73.4295667
+    },
+    {
+      "type": "node",
+      "id": 4020927531,
+      "lat": 36.5423206,
+      "lon": 73.4297097
+    },
+    {
+      "type": "node",
+      "id": 4021801380,
+      "lat": 36.5629981,
+      "lon": 73.4386417
+    },
+    {
+      "type": "node",
+      "id": 4021801382,
+      "lat": 36.5630245,
+      "lon": 73.4385317
+    },
+    {
+      "type": "node",
+      "id": 4021801388,
+      "lat": 36.563076,
+      "lon": 73.4386603
+    },
+    {
+      "type": "node",
+      "id": 4021801390,
+      "lat": 36.5631023,
+      "lon": 73.4385503
+    },
+    {
+      "type": "node",
+      "id": 4023016150,
+      "lat": 36.6442956,
+      "lon": 73.4482249
+    },
+    {
+      "type": "node",
+      "id": 4023016156,
+      "lat": 36.6443459,
+      "lon": 73.448317
+    },
+    {
+      "type": "node",
+      "id": 4023016160,
+      "lat": 36.6443562,
+      "lon": 73.4481919
+    },
+    {
+      "type": "node",
+      "id": 4023016172,
+      "lat": 36.6444065,
+      "lon": 73.4482839
+    },
+    {
+      "type": "node",
+      "id": 4034150903,
+      "lat": 36.6152832,
+      "lon": 74.8612164
+    },
+    {
+      "type": "node",
+      "id": 4034150919,
+      "lat": 36.6153562,
+      "lon": 74.8612896
+    },
+    {
+      "type": "node",
+      "id": 4034150924,
+      "lat": 36.6153695,
+      "lon": 74.8611304
+    },
+    {
+      "type": "node",
+      "id": 4034150931,
+      "lat": 36.6154425,
+      "lon": 74.8612036
+    },
+    {
+      "type": "node",
+      "id": 4034151370,
+      "lat": 36.6178747,
+      "lon": 74.8642846
+    },
+    {
+      "type": "node",
+      "id": 4034151375,
+      "lat": 36.6178881,
+      "lon": 74.8644089
+    },
+    {
+      "type": "node",
+      "id": 4034151392,
+      "lat": 36.6179672,
+      "lon": 74.8642746
+    },
+    {
+      "type": "node",
+      "id": 4034151394,
+      "lat": 36.6179806,
+      "lon": 74.864399
+    },
+    {
+      "type": "node",
+      "id": 4034512099,
+      "lat": 36.6773163,
+      "lon": 74.8339277
+    },
+    {
+      "type": "node",
+      "id": 4034512110,
+      "lat": 36.6773499,
+      "lon": 74.8340079
+    },
+    {
+      "type": "node",
+      "id": 4034512122,
+      "lat": 36.6773913,
+      "lon": 74.8340469
+    },
+    {
+      "type": "node",
+      "id": 4034512123,
+      "lat": 36.6773979,
+      "lon": 74.833831
+    },
+    {
+      "type": "node",
+      "id": 4034512133,
+      "lat": 36.6774202,
+      "lon": 74.8338842
+    },
+    {
+      "type": "node",
+      "id": 4034512150,
+      "lat": 36.6774506,
+      "lon": 74.8341955
+    },
+    {
+      "type": "node",
+      "id": 4034512158,
+      "lat": 36.6774643,
+      "lon": 74.8338031
+    },
+    {
+      "type": "node",
+      "id": 4034512165,
+      "lat": 36.6774775,
+      "lon": 74.8340125
+    },
+    {
+      "type": "node",
+      "id": 4034512166,
+      "lat": 36.6774781,
+      "lon": 74.8339542
+    },
+    {
+      "type": "node",
+      "id": 4034512168,
+      "lat": 36.6774966,
+      "lon": 74.8339982
+    },
+    {
+      "type": "node",
+      "id": 4034512175,
+      "lat": 36.6775151,
+      "lon": 74.8339244
+    },
+    {
+      "type": "node",
+      "id": 4034512178,
+      "lat": 36.6775193,
+      "lon": 74.8339227
+    },
+    {
+      "type": "node",
+      "id": 4034512183,
+      "lat": 36.6775368,
+      "lon": 74.8341612
+    },
+    {
+      "type": "node",
+      "id": 4034512187,
+      "lat": 36.6775428,
+      "lon": 74.8339788
+    },
+    {
+      "type": "node",
+      "id": 4035917031,
+      "lat": 36.750404,
+      "lon": 74.7070627
+    },
+    {
+      "type": "node",
+      "id": 4035917036,
+      "lat": 36.750441,
+      "lon": 74.7069909
+    },
+    {
+      "type": "node",
+      "id": 4035917043,
+      "lat": 36.750498,
+      "lon": 74.7071112
+    },
+    {
+      "type": "node",
+      "id": 4035917050,
+      "lat": 36.7505351,
+      "lon": 74.7070394
+    }
+  ]
+}
