@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>MedHelp</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+   integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+   crossorigin=""/>
+
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+   integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+   crossorigin=""></script>
+
+        <style>
+            #mapid { height: 600px; }
+        </style>
+    </head>
+    <body>
+        <h1>Nearby Medical Providers</h1>
+        {% if providers %}
+        <ul>
+        {% for provider in providers %}
+            <li>
+            {{provider.name}}: {{provider.distance}}
+            </li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+        <div id="mapid"></div>
+        <script>
+            var map = L.map('mapid').setView([31.482032,74.295868], 17);
+
+            L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            L.marker([31.482032, 74.295868]).addTo(map)
+                .bindPopup('I am in Lahore.<br> Need medical help.')
+                .openPopup();
+
+            {% for provider in providers %}
+            var circle = L.circle([{{ provider.location.y }}, {{ provider.location.x }}], {
+                color: 'red',
+                fillColor: '#f03',
+                fillOpacity: 0.5,
+                radius: 25
+            }).addTo(map);
+            {% endfor %}
+
+        </script>
+    </body>
+</html>
