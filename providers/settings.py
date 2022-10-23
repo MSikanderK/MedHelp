@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-aei)tpg%6()7sp(ay7-s9#@q4$dj%_#_2tav$2^c4(d_gl0!k1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['medhelp-8398.herokuapp.com']
 
 
 # Application definition
@@ -38,8 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.gis',
-    'medhelp',
-    'medhelp-8398'
+    'medhelp'
 ]
 
 MIDDLEWARE = [
@@ -82,7 +81,7 @@ DATABASES = {
         'NAME': 'providers',
         'USER': 'provideradmin',
         'PASSWORD': '123456789',
-        'HOST': 'ueizz0.stackhero-network.com',
+        'HOST': 'localhost',
         'PORT': '5432'
     }
 }
