@@ -80,8 +80,8 @@ DATABASES = {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'providers',
         'USER': 'provideradmin',
-        'PASSWORD': 'sikander129d',
-        'HOST': 'localhost',
+        'PASSWORD': '123456789',
+        'HOST': 'ueizz0.stackhero-network.com',
         'PORT': '5432'
     }
 }
