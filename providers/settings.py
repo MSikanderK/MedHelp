@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/4.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.1/ref/settings/
 """
-
+import os
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.gis',
-    'medhelp',
+    'medhelp'
 ]
 
 MIDDLEWARE = [
@@ -80,8 +80,8 @@ DATABASES = {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'providers',
         'USER': 'provideradmin',
-        'PASSWORD': 'sikander129d',
-        'HOST': 'localhost',
+        'PASSWORD': '123456789',
+        'HOST': 'https://ueizz0.stackhero-network.com',
         'PORT': '5432'
     }
 }
@@ -127,3 +127,9 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+GDAL_LIBRARY_PATH = os.environ.get('GDAL_LIBRARY_PATH')
+GEOS_LIBRARY_PATH = os.environ.get('GEOS_LIBRARY_PATH')
+
+import django_on_heroku
+django_on_heroku.settings(locals())
